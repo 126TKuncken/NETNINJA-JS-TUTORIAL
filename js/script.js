@@ -7,4 +7,10 @@
 //third video
 //shows how to use the querySelector() and querySelectorAll() methods to select HTML elements using CSS selectors for more flexible and powerful element targeting in JavaScript
 
+//fourth video
+// shows how to use textContent and innerHTML properties to dynamically change the text and HTML content of selected elements on a webpage.how to use textContent and innerHTML properties to dynamically change the text and HTML content of selected elements on a webpage.
 
+const search = document.getElementById('search-books');
+const bookList = document.getElementById('book-list');
+
+console.log(search, bookList);
