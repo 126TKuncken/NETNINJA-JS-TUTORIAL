@@ -14,3 +14,10 @@ const search = document.getElementById('search-books');
 const bookList = document.getElementById('book-list');
 
 console.log(search, bookList);
+
+
+
+//Day two JS $ The DOM Tutorial [Net Ninja] #6-10
+
+//video 6 
+//In JavaScript, nodes are the fundamental building blocks of the DOM, representing elements, text, attributes, and other parts of an HTML document, allowing for manipulation and traversal through the DOM tree.
